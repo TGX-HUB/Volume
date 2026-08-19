@@ -1,0 +1,6 @@
+{
+  "name": "Pump.fun Volume Tracker & Scrapling Monitor",
+  "description": "Real-time Pump.fun token volume tracking, high-frequency DOM and Scrapling script generator, live volume telemetry monitor, and Google Drive exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
